@@ -1,0 +1,10 @@
+flaskwebgui
+flask
+getmac
+pywinauto
+pyautogui
+platform
+getpass
+socket
+requests
+pyinstaller
